@@ -1,0 +1,11 @@
+CACHE MANIFEST
+# version 1  <-- update counter to tell the browser to refresh content
+/resources/wordpress.css
+/resources/mobile/page.css
+/resources/images/logo.png
+
+FALLBACK:
+/ /resources/offline.html
+
+NETWORK:
+*

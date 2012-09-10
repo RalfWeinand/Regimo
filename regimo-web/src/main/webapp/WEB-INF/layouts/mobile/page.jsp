@@ -4,7 +4,7 @@
 <%@ taglib prefix="sec" uri="http://www.springframework.org/security/tags" %>
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE html>
-<html>
+<html manifest="<c:url value="/resources/regimo-mobile.appcache" />">
 <head>
 	<title><tiles:insertAttribute name="title" defaultValue="Polonious" /></title>
 	<meta http-equiv="content-type" content="text/html;charset=utf-8" />

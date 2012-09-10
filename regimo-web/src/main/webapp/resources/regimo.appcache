@@ -1,0 +1,39 @@
+CACHE MANIFEST
+# version 27  <-- update counter to tell the browser to refresh content
+/resources/wordpress.css
+/resources/form.css
+
+/resources/css/form.css
+/resources/css/style.css
+/resources/css/dropdown-menu.css
+/resources/css/messages/messages.css
+
+/resources/orbit/orbit-1.2.3.css
+/resources/orbit/jquery.orbit-1.2.3.min.js
+/resources/orbit/orbit/timer-black.png
+/resources/orbit/orbit/right-arrow.png
+/resources/orbit/orbit/left-arrow.png
+/resources/orbit/orbit/pause-black.png
+/resources/orbit/orbit/mask-black.png
+/resources/orbit/orbit/bullets.jpg
+/resources/orbit/orbit/rotator-black.png
+
+/resources/images/link_bullet.png
+/resources/images/bg_image_new_1-14-trusted.png
+/resources/images/carousel_image1_5-14.png
+/resources/images/carousel_image2_5-14.png
+/resources/images/carousel_image3_5-14.png
+/resources/images/carousel_image4_5-14.png
+/resources/images/carousel_image5_5-14.png
+/resources/images/logo.png
+/resources/images/button_more.png
+
+http://code.jquery.com/jquery-1.7.1.min.js
+http://www.google-analytics.com/ga.js
+
+
+FALLBACK:
+/ /resources/offline.html
+
+# NETWORK:
+# *
